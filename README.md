@@ -1,0 +1,2 @@
+# assets
+IGNORE
